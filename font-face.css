@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Donatora';
+    src: url('//espacevariation.ca/wp-content/themes/espacevariation/fonts/Donatora-Bold.woff2') format('woff2'),
+        url('//espacevariation.ca/wp-content/themes/espacevariation/fonts/Donatora-Bold.woff') format('woff'),
+        url('//espacevariation.ca/wp-content/themes/espacevariation/fonts/Donatora-Bold.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Donatora';
+    src: url('//espacevariation.ca/wp-content/themes/espacevariation/fonts/Donatora.woff2') format('woff2'),
+        url('//espacevariation.ca/wp-content/themes/espacevariation/fonts/Donatora.woff') format('woff'),
+        url('//espacevariation.ca/wp-content/themes/espacevariation/fonts/Donatora.ttf') format('ttf');
+    font-weight: 500;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Donatora';
+    src: url('//espacevariation.ca/wp-content/themes/espacevariation/fonts/Donatora-Italic.woff2') format('woff2'),
+        url('//espacevariation.ca/wp-content/themes/espacevariation/fonts/Donatora-Italic.woff') format('woff'),
+        url('//espacevariation.ca/wp-content/themes/espacevariation/fonts/Donatora-Italic.ttf') format('ttf');
+    font-weight: 500;
+    font-style: italic;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Donatora';
+    src: url('//espacevariation.ca/wp-content/themes/espacevariation/fonts/Donatora-BoldItalic.woff2') format('woff2'),
+        url('//espacevariation.ca/wp-content/themes/espacevariation/fonts/Donatora-BoldItalic.woff') format('woff'),
+        url('//espacevariation.ca/wp-content/themes/espacevariation/fonts/Donatora-BoldItalic.ttf') format('ttf');
+    font-weight: bold;
+    font-style: italic;
+    font-display: fallback;
+}
+

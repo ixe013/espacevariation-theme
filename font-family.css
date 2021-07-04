@@ -1,0 +1,45 @@
+
+/*--------------------------------------------------------------
+5.0 Typography
+--------------------------------------------------------------*/
+
+body,
+button,
+input,
+select,
+textarea {
+	color: #333;
+	font-family: "Donatora", "Helvetica Neue", helvetica, arial, sans-serif;
+	font-size: 16px;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.66;
+}
+
+
+/*--------------------------------------------------------------
+6.0 Forms
+--------------------------------------------------------------*/
+/* Placeholder text color -- selectors need to be separate to work. */
+::-webkit-input-placeholder {
+	color: #333;
+	font-family: "Donatora", "Helvetica Neue", helvetica, arial, sans-serif;
+}
+
+:-moz-placeholder {
+	color: #333;
+	font-family: "Donatora", "Helvetica Neue", helvetica, arial, sans-serif;
+}
+
+::-moz-placeholder {
+	color: #333;
+	font-family: "Donatora", "Helvetica Neue", helvetica, arial, sans-serif;
+	opacity: 1;
+	/* Since FF19 lowers the opacity of the placeholder by default */
+}
+
+:-ms-input-placeholder {
+	color: #333;
+	font-family: "Donatora", "Helvetica Neue", helvetica, arial, sans-serif;
+}
+
