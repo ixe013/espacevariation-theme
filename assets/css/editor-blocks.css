@@ -1,0 +1,16 @@
+/*--------------------------------------------------------------
+1.0 General Typography
+--------------------------------------------------------------*/
+
+.editor-default-block-appender textarea.editor-default-block-appender__content {
+	font-family: "Donatora", "Helvetica Neue", helvetica, arial, sans-serif;
+}
+
+.editor-post-title__block .editor-post-title__input {
+	color: #333;
+	font-family: "Donatora", "Helvetica Neue", helvetica, arial, sans-serif;
+	font-size: 20px;
+	font-size: 1.25rem;
+	font-weight: 300;
+}
+
