@@ -10,6 +10,8 @@
 @import url("font-face.css");
 @import url("contact-us.css");
 
+.grecaptcha-badge { visibility: hidden; }
+
 /*--------------------------------------------------------------
 5.0 Typography
 --------------------------------------------------------------*/
